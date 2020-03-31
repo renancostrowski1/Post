@@ -2,7 +2,7 @@
 {
     class Comment
     {
-        public  string Text { get; set; }
+        public string Text { get; set; }
 
         public Comment()
         {
